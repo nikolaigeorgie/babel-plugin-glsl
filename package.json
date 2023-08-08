@@ -11,7 +11,7 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
-    "babel-plugin-macros": "^2.5.0",
+    "babel-plugin-macros": "https://github.com/nikolaigeorgie/babel-plugin-macros",
     "glsl-token-defines": "^1.0.0",
     "glsl-token-depth": "^1.1.1",
     "glsl-token-descope": "^1.0.2",
